@@ -10,12 +10,12 @@ export default function Cards() {
         {
             title: "Ride with Guide",
             image: "/projects/rwg.jpg",
-            url: "https://example.com/frontend"
+            url: "http://www.ridewithguide.store"
         },
         {
             title: "Ecommerece Store",
-            image: "/projects/ecommerence store.png",
-            url: "https://example.com/backend"
+            image: "/projects/store.PNG",
+            url: "https://attractive-frontend-design-for-e-commerce-platform.vercel.app/"
         },
         {
             title: "PlagedIn",
@@ -25,12 +25,12 @@ export default function Cards() {
         {
             title: "Video Calling",
             image: "/projects/agora.PNG",
-            url: "https://example.com/ui"
+            url: "https://agora-integration-with-react-js-hyrm.vercel.app/"
         },
         {
             title: "Brand Spark Agency",
             image: "/projects/marketing.jpg",
-            url: "https://example.com/reusable"
+            url: "https://brandsparkagency.com/"
         }
     ];
 
