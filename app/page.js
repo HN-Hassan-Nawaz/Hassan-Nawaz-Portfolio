@@ -14,11 +14,11 @@ export default function HomePage() {
       <div className="row align-items-stretch gx-5">
         {/* Text Column */}
         <div className="col-md-8 d-flex flex-column justify-content-center">
-          <h4>Hello, It's Me</h4>
+          <h4>Hello, It&apos;s Me</h4>
           <h1 className="fw-bold">Hassan Nawaz</h1>
 
           <h5 className="mt-2 d-flex">
-            And I'm a&nbsp;
+            And I am a&nbsp;
             <span className="text-primary fw-bold">
               <Typewriter
                 options={{
