@@ -34,11 +34,11 @@ export default function HomePage() {
           </h5>
 
           <p className="mt-3">
-            I’m a Web Developer with a strong focus on building responsive, user-friendly web applications. From designing modern interfaces to developing robust server-side logic, I enjoy creating complete solutions that deliver a smooth and efficient user experience.
+            I am a Web Developer with a strong focus on building responsive, user friendly web applications. From designing modern interfaces to developing robust server side logic, I enjoy creating complete solutions that deliver a smooth and efficient user experience.
           </p>
 
           <p>
-            I enjoy turning ideas into real, working products using clean code and modern web technologies. Whether it’s developing dynamic websites or solving backend challenges, I’m always focused on writing efficient, scalable, and maintainable code.
+            I enjoy turning ideas into real, working products using clean code and modern web technologies. Whether it is developing dynamic websites or solving backend challenges, I am always focused on writing efficient, scalable, and maintainable code.
           </p>
 
           {/* Social Icons */}

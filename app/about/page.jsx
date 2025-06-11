@@ -11,10 +11,10 @@ export default function AboutPage() {
                 <div className="col-md-8 d-flex flex-column justify-content-center">
                     <h1>About Me</h1>
                     <p>
-                        I’m Hassan Nawaz, a passionate Full Stack Developer with a strong focus on building complete, user-friendly web solutions. I work with both frontend and backend technologies to bring ideas to life from clean, responsive interfaces to powerful server-side functionality.
+                        I am Hassan Nawaz, a passionate Full Stack Developer with a strong focus on building complete, user friendly web solutions. I work with both frontend and backend technologies to bring ideas to life from clean, responsive interfaces to powerful server-side functionality.
                     </p>
                     <p>
-                        I enjoy solving real world problems through code and constantly explore modern tools and frameworks to stay up to date. Whether it's a personal website, business platform, or a custom web application, I aim to deliver fast, secure, and scalable solutions that make a lasting impact.
+                        I enjoy solving real world problems through code and constantly explore modern tools and frameworks to stay up to date. Whether it is a personal website, business platform, or a custom web application, I aim to deliver fast, secure, and scalable solutions that make a lasting impact.
                     </p>
                 </div>
 
