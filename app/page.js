@@ -58,7 +58,7 @@ export default function HomePage() {
           </div>
 
           {/* Download CV */}
-          <a href="/Hassan Nawaz CV.pdf" download className="btn btn-download mt-4">
+          <a href="/Hassan-Nawaz-CV.pdf" download className="btn btn-download mt-4">
             Download CV
           </a>
         </div>
