@@ -14,7 +14,7 @@ import {
 } from "react-icons/fa";
 
 export default function Footer() {
-    const { theme } = useTheme();
+    // const { theme } = useTheme();
 
     return (
         <footer className="text-center text-lg-start pt-4">
