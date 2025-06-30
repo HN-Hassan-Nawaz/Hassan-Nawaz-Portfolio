@@ -31,6 +31,11 @@ export default function Cards() {
             title: "Brand Spark Agency",
             image: "/projects/marketing.jpg",
             url: "https://brandsparkagency.com/"
+        },
+        {
+            title: "Shopify Clone",
+            image: "/projects/shopify-clone.jpg",
+            url: "https://shopify-clone-d3hx.vercel.app/"
         }
     ];
 
@@ -42,8 +47,8 @@ export default function Cards() {
                     <div className="col-md-4" key={idx}>
                         <div
                             className={`border p-3 rounded hover-zoom h-100 ${theme === "dark"
-                                    ? "bg-transparent border-light text-white"
-                                    : "bg-transparent border text-black"
+                                ? "bg-transparent border-light text-white"
+                                : "bg-transparent border text-black"
                                 }`}
                         >
                             <img
