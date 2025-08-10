@@ -7,7 +7,7 @@ import {
 } from "react-icons/fa";
 import { SiTailwindcss, SiNextdotjs, SiExpress, SiMongodb, SiFirebase, SiCplusplus } from "react-icons/si";
 import { GiGearHammer } from "react-icons/gi"; // For OOP
-import { MdStorage } from "react-icons/md";     // For Data Structure
+import { MdStorage, SiSocketdotio } from "react-icons/md";     // For Data Structure
 
 export default function SkillsCarousel() {
   const scrollRef = useRef();
@@ -28,6 +28,7 @@ export default function SkillsCarousel() {
     { icon: <SiCplusplus size={30} className="text-primary" />, name: "C++" },
     { icon: <GiGearHammer size={30} className="text-secondary" />, name: "OOP" },
     { icon: <MdStorage size={30} className="text-secondary" />, name: "Data Structure" },
+    { icon: <SiSocketdotio size={30} className="text-dark" />, name: "Socket.IO" }
   ];
 
   useEffect(() => {

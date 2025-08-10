@@ -22,7 +22,7 @@ export default function HomePage() {
             <span className="text-primary fw-bold">
               <Typewriter
                 options={{
-                  strings: ["Frontend Developer", "Backend Developer", "YouTuber", "Video Editer"],
+                  strings: ["Frontend Developer", "Backend Developer"],
                   autoStart: true,
                   loop: true,
                   deleteSpeed: 50,
