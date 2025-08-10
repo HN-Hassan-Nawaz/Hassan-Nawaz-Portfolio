@@ -39,3 +39,18 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# Ignore specific files
+Hassan-Nawaz-CV.pdf
+Hassan-Nawaz.jpg
+ui-design.avif
+
+# Ignore all images in the public/projects folder
+/public/projects/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore environment files
+.env

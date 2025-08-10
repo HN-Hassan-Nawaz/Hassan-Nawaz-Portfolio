@@ -36,6 +36,26 @@ export default function Cards() {
             title: "Shopify Clone",
             image: "/projects/shopify-clone.jpg",
             url: "https://shopify-clone-d3hx.vercel.app/"
+        },
+        {
+            title: "Infinite Scrolling",
+            image: "/projects/scrolling.jpg",
+            url: "https://infinite-scrolling-react-js-sepia.vercel.app/"
+        },
+        {
+            title: "Redux Counter App",
+            image: "/projects/counter.jpg",
+            url: "https://counter-react-redux-six.vercel.app/"
+        },
+        {
+            title: "Redux Shoping Cart",
+            image: "/projects/cart.jpg",
+            url: "https://react-redux-shoping-cart-task.vercel.app/"
+        },
+        {
+            title: "Chat App",
+            image: "/projects/chat.jpg",
+            url: "https://mern-chat-frontend-nine.vercel.app/"
         }
     ];
 
